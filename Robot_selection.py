@@ -1,8 +1,8 @@
 '''
-This program prints the efficient robots recognised by the paper written by the contributors which satisfy the input specificaiton ranges provide by a user.
-The csv files containing data of Fanuc, Kuka, ABB, Yaskawa and Universal Robots should be in the root directory of the
-cuurent Python file.
-Disclaimer: Under no circumstances, the contributors of this code be liable for any direct or indirect condsequential damages.
+This program prints the efficient robots recognised by the paper titled "A Statistical Analysis of Commercial Articulated Industrial Robots and Cobots" that satisfy the input specification ranges a user provides.
+The CSV files containing data of Fanuc, Kuka, ABB, Yaskawa and Universal Robots should be in the root directory of the
+current Python file.
+Disclaimer: Under no circumstances, the contributors of this code be liable for any direct or indirect consequential damages.
 '''
 import math
 import csv
